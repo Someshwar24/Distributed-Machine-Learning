@@ -1,14 +1,18 @@
-Distributed Banking Analytics and Customer Term Deposit Prediction
+DISTRIBUTED BANKING ANALYTICS AND CUSTOMER TERM DEPOSIT PREDICTION
+==================================================================
 
-Project Overview
+PROJECT OVERVIEW
+----------------
 
 This project explores distributed data processing and machine learning using banking customer data. The objective is to predict whether a customer will subscribe to a term deposit using classification techniques, while learning how Hadoop, Hive, and Apache Spark support data analytics.
 
-Problem Statement
+PROBLEM STATEMENT
+-----------------
 
 Banks need to identify customers who are more likely to subscribe to term-deposit products. This project analyzes historical banking data, applies data preprocessing and machine learning techniques, and explores distributed technologies to understand how banking analytics can scale to larger datasets.
 
-Objectives
+OBJECTIVES
+---------
 
 Understand distributed storage using Hadoop HDFS.
 
@@ -22,8 +26,8 @@ Explore streaming concepts using simulated banking records.
 
 Understand data partitioning and parallel processing.
 
-Dataset
-
+DATASET
+-------
 Dataset: bank.csv
 
 Records: 4,521
@@ -38,7 +42,8 @@ yes — Subscribed
 
 no — Not subscribed
 
-Technologies Used
+TECHNOLOGIES USED
+-----------------
 
 Python
 
